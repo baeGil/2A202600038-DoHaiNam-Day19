@@ -1,0 +1,11 @@
+metric,value
+cases,20.00
+flat_correct,17.00
+graph_correct,19.00
+flat_accuracy,0.85
+graph_accuracy,0.95
+flat_only_wins,1.00
+graph_only_wins,3.00
+ties,16.00
+both_correct,16.00
+both_wrong,0.00
