@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Một nhóm trong một liên minh lao động quốc tế đã bị loại bỏ sau xung đột tư tưởng, rồi lập ra một tổ chức riêng. Nhóm này gắn với cá nhân nào?",
+    "options": {
+      "A": "Karl Marx",
+      "B": "Mikhail Bakunin",
+      "C": "Pierre-Joseph Proudhon",
+      "D": "Peter Kropotkin"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một biến cố vừa dẫn đến việc những người tham gia bị đàn áp và lưu đày, vừa ảnh hưởng trực tiếp đến một lý thuyết về phân phối theo nhu cầu. Biến cố đó diễn ra trước hay sau khi lý thuyết này được hệ thống hóa?",
+    "options": {
+      "A": "Trước, vì nó là nguồn cảm hứng",
+      "B": "Sau, vì nó là hệ quả của lý thuyết",
+      "C": "Cùng thời điểm",
+      "D": "Không liên quan về thời gian"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Một xu hướng tổ chức xuất hiện sau khi một phong trào bị đàn áp, chủ trương xây dựng cấu trúc chặt chẽ để thúc đẩy cách mạng. Xu hướng đối lập với nó chủ yếu phản đối điều gì?",
+    "options": {
+      "A": "Việc sử dụng bạo lực",
+      "B": "Việc phân phối theo nhu cầu",
+      "C": "Việc hình thành cấu trúc giống một đảng chính trị",
+      "D": "Việc tham gia công đoàn"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Một số triết gia cổ đại ủng hộ xã hội dựa trên quan hệ không chính thức giữa con người mà không cần thiết chế chính trị. Quan điểm này gần nhất với nguyên tắc nào của anarchism hiện đại?",
+    "options": {
+      "A": "centralized authority",
+      "B": "voluntary association",
+      "C": "state socialism",
+      "D": "vanguard party"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một sự thay đổi trong phong trào công nhân khiến một hệ tư tưởng suy yếu vì lực lượng chuyển sang tổ chức khác mang tính tập trung hơn. Tổ chức đích đó mang đặc điểm gì?",
+    "options": {
+      "A": "phi tập trung và tự quản",
+      "B": "dựa trên hợp đồng tự nguyện",
+      "C": "liên bang các nhóm nhỏ độc lập",
+      "D": "có cấu trúc tập trung và liên kết với các đảng"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Một cá nhân liên quan đến một lý thuyết kinh tế được mô tả như một dạng 'trung gian' giữa hai hướng khác nhau. Cá nhân này cũng là người đầu tiên tự nhận một nhãn tư tưởng cụ thể. Nhãn đó về sau thường được dùng đồng nghĩa với một thuật ngữ khác trong một số bối cảnh. Thuật ngữ đồng nghĩa đó là gì?",
+    "options": {
+      "A": "libertarianism",
+      "B": "collectivism",
+      "C": "syndicalism",
+      "D": "federalism"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Một xu hướng tư tưởng nhấn mạnh rằng cá nhân không có nghĩa vụ đạo đức phải tuân theo chính quyền, nhưng vẫn có thể chấp nhận sự tồn tại của một hình thức tổ chức tối thiểu. Quan điểm này mâu thuẫn trực tiếp với lập luận nào dưới đây?",
+    "options": {
+      "A": "state luôn bất hợp pháp vì dựa trên coercion",
+      "B": "authority có thể được chấp nhận nếu giúp tăng xác suất thành công khi hành động",
+      "C": "nhà nước là công cụ của tầng lớp thống trị",
+      "D": "anarchism yêu cầu xoá bỏ mọi hình thức tổ chức"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một phong trào bị suy yếu khi một phần lực lượng của nó rời bỏ cấu trúc tổ chức cũ để tham gia một hệ thống mang tính tập trung hơn. Điều này xảy ra sau một biến động lớn, nơi mà ban đầu phong trào này cũng tham gia nhưng sau đó bị đàn áp. Biến động đó dẫn đến hệ quả nào khác dưới đây?",
+    "options": {
+      "A": "sự hình thành các nhóm nhỏ phi tập trung thay vì tổ chức lớn",
+      "B": "sự xuất hiện của hai xu hướng đối lập về cấu trúc tổ chức",
+      "C": "sự lan rộng của một hình thức công đoàn toàn cầu",
+      "D": "sự chuyển dịch sang các phong trào môi trường"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một nhóm triết gia cổ đại và một trường phái hiện đại cùng chia sẻ một nguyên tắc về tổ chức xã hội, nhưng khác nhau ở việc một bên chỉ mô tả còn bên kia đề xuất hành động. Nguyên tắc chung đó là gì?",
+    "options": {
+      "A": "authority phải được tập trung để duy trì trật tự",
+      "B": "quan hệ xã hội có thể tồn tại mà không cần thiết chế chính thức",
+      "C": "phân phối tài nguyên dựa trên lao động",
+      "D": "cách mạng là phương tiện duy nhất để thay đổi xã hội"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một chiến lược trong một giai đoạn lịch sử được một số cá nhân sử dụng nhằm kích hoạt thay đổi xã hội thông qua hành động trực tiếp mang tính biểu tượng. Tuy nhiên, chiến lược này dẫn đến hậu quả làm tăng sự giám sát và hạn chế di cư đối với những người theo phong trào. Chiến lược đó KHÁC với cách tiếp cận nào dưới đây ở mục tiêu phương tiện?",
+    "options": {
+      "A": "xây dựng các cộng đồng dựa trên hợp tác tự nguyện",
+      "B": "tổ chức công đoàn để thay thế nhà nước",
+      "C": "thiết lập cấu trúc chính trị tập trung",
+      "D": "phát triển lý thuyết kinh tế về trao đổi"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Giả sử một cá nhân trong phong trào tin rằng việc giành quyền lực theo cách của một học thuyết đối thủ sẽ dẫn đến việc tái tạo áp bức. Nếu người này đúng theo văn bản, hệ quả nào KHÔNG thể đồng thời đúng?",
+    "options": {
+      "A": "việc nắm quyền sẽ tạo ra một tầng lớp thống trị mới",
+      "B": "các lãnh đạo mới sẽ trở thành nguồn áp bức",
+      "C": "quyền lực sau cách mạng sẽ tự động phân tán",
+      "D": "cách mạng có thể dẫn đến tái lập cấu trúc quyền lực"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Chọn phương án mà nếu đúng, sẽ làm suy yếu lập luận rằng một thiết chế chính trị là không thể chính danh trong mọi trường hợp.",
+    "options": {
+      "A": "mọi quyền lực đều dựa trên cưỡng ép",
+      "B": "con người có xu hướng tích lũy quyền lực khi nắm giữ nó",
+      "C": "một hệ thống có thể được chấp nhận nếu đạt được đồng thuận thực sự",
+      "D": "quyết định luôn được đưa ra bởi một nhóm nhỏ"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Một số nhóm trong phong trào chọn cách hành động cá nhân mang tính biểu tượng thay vì tổ chức tập thể. Nếu so sánh với các chiến lược khác trong cùng văn bản, điểm khác biệt sâu nhất nằm ở đâu?",
+    "options": {
+      "A": "mức độ phụ thuộc vào tổ chức chính thức",
+      "B": "mục tiêu phân phối tài nguyên",
+      "C": "quan điểm về sở hữu tư nhân",
+      "D": "cách hiểu về giáo dục"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Nếu loại bỏ hoàn toàn giả định rằng con người có thể hợp tác tự nguyện, phát biểu nào dưới đây sẽ sụp đổ trước tiên?",
+    "options": {
+      "A": "xã hội có thể vận hành mà không cần thiết chế cưỡng ép",
+      "B": "quyền lực có xu hướng tập trung vào thiểu số",
+      "C": "nhà nước có thể trở thành công cụ áp bức",
+      "D": "xung đột xã hội là không thể tránh khỏi"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Một mô hình tổ chức nhỏ, phi tập trung được mô tả như có khả năng liên kết thành mạng lớn hơn. Điều gì sẽ mâu thuẫn trực tiếp với cơ chế này?",
+    "options": {
+      "A": "các nhóm hoạt động độc lập nhưng kết nối lỏng lẻo",
+      "B": "quyết định được đưa ra thông qua đồng thuận",
+      "C": "một trung tâm điều phối đưa ra chỉ thị bắt buộc",
+      "D": "thành viên có quyền tự chủ cao"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Một hiện tượng lịch sử vừa góp phần lan rộng tư tưởng, vừa khiến phong trào bị gắn với hình ảnh tiêu cực. Điều nào dưới đây giải thích tốt nhất sự mâu thuẫn này?",
+    "options": {
+      "A": "các hành động mang tính cá nhân có thể gây chú ý nhưng cũng tạo phản ứng tiêu cực",
+      "B": "tư tưởng chỉ lan rộng thông qua giáo dục chính quy",
+      "C": "phong trào hoàn toàn tránh mọi hình thức đối đầu",
+      "D": "các nhóm luôn hoạt động bí mật và không công khai"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Chọn phương án mà nếu đảo chiều quan hệ nhân quả, vẫn giữ được tính hợp lý với toàn bộ văn bản.",
+    "options": {
+      "A": "đàn áp → phong trào suy yếu",
+      "B": "phong trào suy yếu → đàn áp xảy ra",
+      "C": "đàn áp → phong trào biến mất hoàn toàn",
+      "D": "phong trào mạnh lên → không còn đàn áp"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Một lập luận cho rằng việc tuân theo một nguồn quyền lực có thể mang lại kết quả tốt hơn trong một số trường hợp. Điều này xung đột trực tiếp với nguyên tắc nào?",
+    "options": {
+      "A": "mọi authority đều không có tính chính danh",
+      "B": "xã hội cần có phân cấp rõ ràng",
+      "C": "tổ chức tập trung là cần thiết",
+      "D": "cách mạng phải mang tính bạo lực"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Nếu một phong trào chuyển từ đấu tranh trực tiếp sang xây dựng các mô hình thay thế, điều gì sẽ thay đổi nhiều nhất?",
+    "options": {
+      "A": "mục tiêu dài hạn",
+      "B": "phương tiện thực hiện",
+      "C": "niềm tin về con người",
+      "D": "định nghĩa về tự do"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một số quan điểm trong văn bản cho rằng các vấn đề toàn cầu hiện tại không chỉ không được giải quyết bởi hệ thống hiện tại mà còn do chính hệ thống đó gây ra. Điều nào sau đây phù hợp nhất với lập luận này?",
+    "options": {
+      "A": "hệ thống hiện tại là trung lập",
+      "B": "các vấn đề tồn tại độc lập với cấu trúc xã hội",
+      "C": "hệ thống góp phần tạo ra chính các vấn đề mà nó không giải quyết được",
+      "D": "mọi vấn đề đều do cá nhân gây ra"
+    },
+    "answer": "C"
+  }
+]
