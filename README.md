@@ -42,15 +42,21 @@ Quy trình Indexing không chỉ đơn thuần là lưu trữ mà là quá trìn
 Mình sử dụng **Milvus** để quản lý các vector không gian cao chiều. 
 - **Schema**: Được thiết kế tối ưu với định dạng `float_vector` cho embedding.
 - **Visual Evidence**: 
-![Milvus Schema](results/figures/milvus/schema.png)
-*Hình 1: Cấu trúc Schema của Collection trong Milvus*
+<p align="center">
+  <img src="results/figures/milvus/schema.png" alt="Milvus Schema">
+  <br>
+  <em>Hình 1: Cấu trúc Schema của Collection trong Milvus</em>
+</p>
 
 ### 2.2. Graph Construction
 Mỗi chunk văn bản sau khi qua LLM sẽ được bóc tách thành các bộ ba (triplets). 
 - **Entity Linkage**: Các thực thể giống nhau từ các chunk khác nhau được gộp lại (`MERGE`), tạo thành các kết nối xuyên suốt tài liệu.
 - **Visual Evidence**:
-![Neo4j Detailed Graph](results/figures/neo4j/detailed.png)
-*Hình 2: Đồ thị tri thức chi tiết sau khi trích xuất thực thể và quan hệ*
+<p align="center">
+  <img src="results/figures/neo4j/detailed.png" alt="Neo4j Detailed Graph">
+  <br>
+  <em>Hình 2: Đồ thị tri thức chi tiết sau khi trích xuất thực thể và quan hệ</em>
+</p>
 
 ## 3. Knowledge Representation Model
 
@@ -84,10 +90,17 @@ classDiagram
 - **Relationship Types**: 
     - `RELATED_TO`: Chứa ngữ cảnh về mối quan hệ giữa các thực thể.
     - `MENTIONED_IN`: Liên kết ngược lại nguồn gốc của tri thức để phục vụ việc trích dẫn.
-![Neo4j Nodes Info](results/figures/neo4j/nodes.png)
-*Hình 3: Các loại Node được định nghĩa trên Neo4j*
-![Neo4j Nodes Info](results/figures/neo4j/relationships.png)    
-*Hình 4: Các loại Relationship được định nghĩa trên Neo4j*
+<p align="center">
+  <img src="results/figures/neo4j/nodes.png" alt="Neo4j Nodes Info">
+  <br>
+  <em>Hình 3: Các loại Node được định nghĩa trên Neo4j</em>
+</p>
+
+<p align="center">
+  <img src="results/figures/neo4j/relationships.png" alt="Neo4j Relationships Info">
+  <br>
+  <em>Hình 4: Các loại Relationship được định nghĩa trên Neo4j</em>
+</p>
 
 ## 4. Retrieval Engine: Multi-hop Reasoning Logic
 
